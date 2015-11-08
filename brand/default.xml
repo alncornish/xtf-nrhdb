@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<brand xmlns="http://www.w3.org/1999/xhtml">
+ 
+   <links>
+      <link rel="stylesheet" href="css/default/results.css" type="text/css"/>
+   </links>
+
+   <dynaxml.links>
+      <link rel="stylesheet" href="css/default/content.css" type="text/css"/>
+   </dynaxml.links>
+
+   <header>
+<div class="header">
+</div>
+  <a href="../xtf/index.php"><img src="../xtf/icons/default/header.jpg" width="943" height="70" alt="Naval Reactors History Database (nrhdb)" style="border-style: none" /></a>
+   </header>
+<footer>
+<div class="footer">
+<p align="center"><a style="color: #ffffff" href="index.php">nrhdb Home</a></p>
+</div>
+</footer>
+</brand>
